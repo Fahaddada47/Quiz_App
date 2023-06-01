@@ -14,13 +14,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-?style=default https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg
-[![wakatime](https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg)](https://wakatime.com/badge/github/Fahaddada47/Quiz_App)
-<a href="https://wakatime.com/badge/github/Fahaddada47/Quiz_App"><img src="https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg" alt="wakatime"></a>
-!https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg!:https://wakatime.com/badge/github/Fahaddada47/Quiz_App
-<img src="https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg" alt="wakatime" />}[https://wakatime.com/badge/github/Fahaddada47/Quiz_App]
-image:https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg["wakatime", link="https://wakatime.com/badge/github/Fahaddada47/Quiz_App"]
-image:https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg["wakatime", link="https://wakatime.com/badge/github/Fahaddada47/Quiz_App"]
-.. image:: https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg
-    :target: https://wakatime.com/badge/github/Fahaddada47/Quiz_App
-    =for html <a href="https://wakatime.com/badge/github/Fahaddada47/Quiz_App"><img src="https://wakatime.com/badge/github/Fahaddada47/Quiz_App.svg"></a>
