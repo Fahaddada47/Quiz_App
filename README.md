@@ -1,4 +1,4 @@
-# quiz_app
+# quiz_app  [![wakatime](https://wakatime.com/badge/user/0804ee56-e78a-4a4a-bb67-07bbce93a913/project/62d670b3-5745-423b-b756-503452cbdca1.svg)](https://wakatime.com/badge/user/0804ee56-e78a-4a4a-bb67-07bbce93a913/project/62d670b3-5745-423b-b756-503452cbdca1)
 
 simple quiz app
 
